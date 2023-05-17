@@ -1,5 +1,6 @@
 # CT7111-Audio-Visualisation
 AUDIO VISUALISER PROJECT V1.1
+
 REQUIRES UE5.1
 
 Key Features:
@@ -14,3 +15,6 @@ Fine Tune parameters can be found on each individual visualiser.
 Once the audio file has been entered into the 4 files listed above, hit Play.
 
 Problems: Unifying all the audio inputs turned out to be a much more complex task than I had originally anticipated, resulting in me unable to unify all the audio inputs under one variable.
+
+I CLAIM NO COPYRIGHT OVER ANY AUDIO USED IN THE DEMONSTRATION / BASE TRACK
+Porter Robinson - dullscythe: https://www.youtube.com/watch?v=oKMNj8v2gKE&ab_channel=PorterRobinson
